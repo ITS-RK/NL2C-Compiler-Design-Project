@@ -1,2 +1,0 @@
-create integer x
-set x to cast x to float

@@ -1,8 +1,0 @@
-create integer i
-
-set i to 0
-
-while i less than 3 do
-    print i
-    set i to i + 1
-end while

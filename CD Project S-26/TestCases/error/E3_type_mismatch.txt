@@ -1,5 +1,0 @@
-create integer x
-create float y
-
-set y to 5
-set x to y

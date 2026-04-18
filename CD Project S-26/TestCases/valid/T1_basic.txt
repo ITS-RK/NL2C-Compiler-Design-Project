@@ -1,3 +1,0 @@
-create integer x
-set x to 5
-print x

@@ -1,0 +1,7 @@
+create integer x
+create float y
+
+set x to 5
+set y to x + 2.5
+
+print y

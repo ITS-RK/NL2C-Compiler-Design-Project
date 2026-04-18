@@ -1,0 +1,9 @@
+create integer x
+set x to 10
+
+if x greater than 5 then
+    print x
+else
+    set x to 0
+    print x
+end if

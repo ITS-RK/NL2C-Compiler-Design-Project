@@ -1,0 +1,10 @@
+define function mul
+with parameters a b
+begin
+    return a * b
+end function
+
+create integer x
+set x to call mul with 2 3 + 4
+
+print x

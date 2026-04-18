@@ -1,0 +1,12 @@
+create integer x
+set x to 7
+
+if x greater than 5 then
+    if x greater than 6 then
+        print x
+    else
+        set x to 0
+    end if
+else
+    print x
+end if

@@ -1,0 +1,5 @@
+create integer i
+
+for i from 1 to 3 step 1 do
+    print i
+end for

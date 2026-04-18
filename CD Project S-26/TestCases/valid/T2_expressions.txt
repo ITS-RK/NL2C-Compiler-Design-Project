@@ -1,0 +1,7 @@
+create integer x
+create integer y
+
+set x to 5
+set y to x + 10 * 2
+
+print x + y

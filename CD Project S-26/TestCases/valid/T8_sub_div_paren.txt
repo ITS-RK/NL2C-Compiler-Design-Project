@@ -1,0 +1,8 @@
+create integer x
+create float y
+
+set x to (10 - 4) * 2
+set y to (cast x to float) / 3.0
+
+print x
+print y

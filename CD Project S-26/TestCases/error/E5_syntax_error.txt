@@ -1,0 +1,2 @@
+create integer
+set x to 5
